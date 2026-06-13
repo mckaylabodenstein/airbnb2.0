@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "node backend/server.js",
+    "heroku-postbuild": "cd backend && npm install && cd ../frontend && npm install && npm run build"
+  },
+  "engines": {
+    "node": "22.x"
+  }
+}
