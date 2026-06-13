@@ -28,15 +28,15 @@ Password: Mckayla123!
 
 Live Project:
 
-https://a-irbnbcapstone2026.netlify.app/
+
 
 Backend:
 
-https://airbnb-capstone-hn4p.onrender.com
+
 
 GitHub:
 
-{link}
+(https://github.com/mckaylabodenstein/airbnb2.0.git)
 
 Project Video:
 
